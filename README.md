@@ -1,4 +1,4 @@
-# DriverAssistant_Mikeale
+
 # DriverAssistant App
 
 ## Project Overview
@@ -25,9 +25,9 @@ DriverAssistant is a mobile application designed to simplify payment processes f
 ## Contact Information
 
 - **Developer**: Mica
-- **Email**: your.email@example.com
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
-- **Phone**: +251 9XX XXX XXX (if applicable)
+- **Email**: marvelethio2026@gmail.com
+- **GitHub**: [https://github.com/yourusername](https://github.com/marvel21-creator/)
+- **Phone**: +251 907492641
 
 Feel free to reach out for support or feedback. Thank you for using DriverAssistant!
 
