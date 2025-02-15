@@ -17,7 +17,7 @@ DriverAssistant is a mobile application designed to simplify payment processes f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DriverAssistant.git
+   git clone https://github.com/marvel21-creator/DriverAssistant.git
    ```
 2. Open the project in Android Studio.
 3. Run the app on a physical device or emulator (Pixel 6 Pro recommended).
