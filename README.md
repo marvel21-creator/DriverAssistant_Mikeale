@@ -9,7 +9,7 @@ DriverAssistant is a mobile application designed to simplify payment processes f
 - **Easy Payment Options**: Passengers can pay using wallets like CBE Birr, TeleBirr, and Chapa, as well as direct bank transfers.
 - **Dynamic Fare Calculation**: Calculates fares based on distance or time for undefined routes.
 - **Quick Payment Flow**: No login required for passengers, ensuring a faster transaction process.
-- **Optional Account Login**: Allows passengers to track transaction history and travel details.
+- **No Login**: to make user qickly pay without any delay.
 - **Notification System**: Alerts passengers and drivers when the destination is reached.
 - **Fake Payment Mode**: A test mode to simulate payments for demonstration purposes.
 
