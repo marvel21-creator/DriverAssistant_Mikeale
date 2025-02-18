@@ -10,7 +10,7 @@
         android:id="@+id/welcome_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome to DriverAssistant APP 🚘"
+        android:text="@string/welcome_message"
         android:textSize="24sp"
         android:textColor="@android:color/white" />
 </RelativeLayout>

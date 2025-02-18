@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Chapa</string>
+    <string name="welcome_message">Welcome to DriverAssistant APP 🚘</string>
+
     <string-array name="payment_methods">
         <item>CbeBirr</item>
         <item>TeleBirr</item>
